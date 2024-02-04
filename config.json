@@ -1,0 +1,4 @@
+{
+    "server_address": "/tmp/udp_server_socket_file",
+    "client_address": "/tmp/udp_client_socket_file"
+}
